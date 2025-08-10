@@ -22,7 +22,7 @@ It is a method where a complex and high-dimensional fluid velocity data is broke
     HSE (Hydrodynamic Schrödinger Equation): 
 In HSE, the dynamics of fluid flow, described using a quantum wave-function, namely the Schrödinger Equation.
 
-#### Tools and Techniques Used: 
+### Tools and Techniques Used: 
 PennyLane, Amazon Braket-Rigetti Quantum Processing Unit (QPU), Python.
 
 
