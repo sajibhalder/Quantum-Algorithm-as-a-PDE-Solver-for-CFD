@@ -10,7 +10,7 @@
 
 Imagine we are trying to simulate how air flows over an airplane wing or how water moves through a pipe. This is dealt with by applying Computational Fluid Dynamics (CFD), an area that is significantly dependent on the solution of Partial Differential Equations (PDEs). And we know these equations increase exponentially in complexity with size. That is where quantum computing enters the picture.
 
-$${\color{blue}One such equation is called the Burgers' Equation. It is a simplified version of more complex fluid equations, but still useful for testing.}$$
+#### One such equation is called $${\color{orange}the Burgers' Equation.}$$ It is a simplified version of more complex fluid equations, but still useful for testing.}$$
 
 In this challenge, we aimed to build a Quantum-enhanced PDE solver for Computational Fluid Dynamics (CFD).
 
