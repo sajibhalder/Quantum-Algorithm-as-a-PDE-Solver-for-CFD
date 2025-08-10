@@ -1,5 +1,10 @@
 # Quantum-Algorithm-as-a-PDE-Solver-for-CFD
-## Quantum Algorithm as a PDE Solver for Computational Fluid Dynamics (CFD)
+## Project Name: Quantum Algorithm as a PDE Solver for Computational Fluid Dynamics (CFD)
+
+## Name of the Participant: Sajib Halder
+## WISER Enrollment ID: gst-bDwu8WDOuIWEGh3 
+## Team Name: Quevian’s Paper Boat
+
 
 ### Overview of the Project: 
 
