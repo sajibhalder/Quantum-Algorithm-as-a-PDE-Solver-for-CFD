@@ -3,7 +3,7 @@
 
     Name of the Participant: Sajib Halder
     WISER Enrollment ID: gst-bDwu8WDOuIWEGh3 
-    Team Name: Quevian’s Paper Boat (Individual Participation)
+    Team Name: Quevian’s Paper Boat 
 
 
 ### Overview of the Project: 
