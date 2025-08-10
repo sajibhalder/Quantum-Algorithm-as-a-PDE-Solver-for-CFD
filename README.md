@@ -16,10 +16,10 @@ In this challenge, we aimed to build a quantum-enhanced PDE solver for Computati
 
 ### Chosen Framework and Approaches: 
 
-#### QTN (Quantum Tensor‑Network): 
+    #### QTN (Quantum Tensor‑Network): 
 It is a method where a complex and high-dimensional fluid velocity data is broken down into simpler components using matrix product states (MPS) - pretty much shrinking enormous datasets onto a handful of qubits to simulate efficiently.
 
-#### HSE (Hydrodynamic Schrödinger Equation): 
+    #### HSE (Hydrodynamic Schrödinger Equation): 
 In HSE, the dynamics of fluid flow, described using a quantum wave-function, namely the Schrödinger Equation.
 
 
