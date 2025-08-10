@@ -8,7 +8,7 @@
 
 ### Overview of the Project: 
 
-Imagine we are trying to simulate how air flows over an airplane wing or how water moves through a pipe. This is dealt with by applying $${\color{orange}Computational-Fluid-Dynamics (CFD),}$$ an area that is significantly dependent on the solution of Partial Differential Equations (PDEs). And we know these equations increase exponentially in complexity with size. That is where $${\color{orange}Quantum Computing}$$ enters the picture.
+Imagine we are trying to simulate how air flows over an airplane wing or how water moves through a pipe. This is dealt with by applying $${\color{orange}Computational-Fluid-Dynamics (CFD),}$$ an area that is significantly dependent on the solution of Partial Differential Equations (PDEs). And we know these equations increase exponentially in complexity with size. That is where $${\color{orange}Quantum-Computing}$$ enters the picture.
 
 #### One such equation is called the $${\color{orange}Burgers' Equation.}$$ It is a simplified version of more complex fluid equations, but still useful for testing.}$$
 
@@ -23,7 +23,9 @@ $${\color{orange}QTN}$$ is a method where a complex and high-dimensional fluid v
 In $${\color{orange}HSE,}$$ the dynamics of fluid flow, described using a quantum wave-function, namely the Schrödinger Equation to model fluid development.
 
 ### Tools and Techniques Used: 
-🟢 PennyLane, Amazon Braket-Rigetti Quantum Processing Unit (QPU), Python.
+PennyLane, Amazon Braket-Rigetti Quantum Processing Unit (QPU), Python.
+
+
 
 
 
