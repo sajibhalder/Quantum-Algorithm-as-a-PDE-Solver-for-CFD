@@ -12,7 +12,7 @@ Imagine we are trying to simulate how air flows over an airplane wing or how wat
 
 One such equation is called the Burgers' Equation. It is a simplified version of more complex fluid equations, but still useful for testing. 
 
-In this challenge, we aimed to build a quantum-enhanced PDE solver for Computational Fluid Dynamics (CFD).
+In this challenge, we aimed to build a Quantum-enhanced PDE solver for Computational Fluid Dynamics (CFD).
 
 ### Chosen Framework and Approaches: 
 
