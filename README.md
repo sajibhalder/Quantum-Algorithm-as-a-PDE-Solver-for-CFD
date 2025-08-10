@@ -3,7 +3,7 @@
 
     Name of the Participant: Sajib Halder
     WISER Enrollment ID: gst-bDwu8WDOuIWEGh3 
-    Team Name: Quevian’s Paper Boat
+    Team Name: Quevian’s Paper Boat (Individual Participation)
 
 
 ### Overview of the Project: 
@@ -20,7 +20,7 @@ In this challenge, we aimed to build a quantum-enhanced PDE solver for Computati
 It is a method where a complex and high-dimensional fluid velocity data is broken down into simpler components using matrix product states (MPS) - pretty much shrinking enormous datasets onto a handful of qubits to simulate efficiently.
 
     HSE (Hydrodynamic Schrödinger Equation): 
-In HSE, the dynamics of fluid flow, described using a quantum wave-function, namely the Schrödinger Equation.
+In HSE, the dynamics of fluid flow, described using a quantum wave-function, namely the Schrödinger Equation to model fluid development.
 
 ### Tools and Techniques Used: 
 PennyLane, Amazon Braket-Rigetti Quantum Processing Unit (QPU), Python.
