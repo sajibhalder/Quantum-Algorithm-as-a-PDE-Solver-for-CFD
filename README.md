@@ -1,4 +1,4 @@
-# Quantum-Algorithm-as-a-PDE-Solver-for-CFD
+# $${\color{orange}Quantum-Algorithm-as-a-PDE-Solver-for-CFD}$$
 ## Project Name: Quantum Algorithm as a PDE Solver for Computational Fluid Dynamics (CFD)
 
     Name of the Participant: Sajib Halder 
@@ -23,7 +23,7 @@ $${\color{orange}QTN}$$ is a method where a complex and high-dimensional fluid v
 In $${\color{orange}HSE,}$$ the dynamics of fluid flow, described using a quantum wave-function, namely the Schrödinger Equation to model fluid development.
 
 ### Tools and Techniques Used: 
-🟢 $${\color{orange}PennyLane,}$$ Amazon Braket-$${\color{orange}Rigetti Quantum Processing Unit (QPU),}$$ Python.
+🟢 $${\color{orange}PennyLane,}$$ Amazon Braket- $${\color{orange}Rigetti}$$ Quantum Processing Unit (QPU), Python.
 
 
 
