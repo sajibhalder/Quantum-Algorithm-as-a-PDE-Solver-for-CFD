@@ -26,7 +26,9 @@ $${\color{orange}HSE,}$$ where the dynamics of fluid flow, described using a qua
 PennyLane, Amazon Braket-Rigetti Quantum Processing Unit (QPU), Python.
 
 
+[Project Summary.pdf](https://github.com/user-attachments/files/21708373/Project.Summary.pdf)
 
 
 
+[Project Presentation deck.pptx](https://github.com/user-attachments/files/21708375/Project.Presentation.deck.pptx)
 
